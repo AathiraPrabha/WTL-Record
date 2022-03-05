@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<VTU>
+<STUDENT>
+<USN>1GD11CS001</USN>
+<NAME>Aathira Prabha</NAME>
+<COLLEGE>Rajagiri College of Social Sciences</COLLEGE>
+<BRANCH>Computer Apllications</BRANCH>
+<YEAR>2021</YEAR>
+<EMAILID>aathiraprabha14@gmail.com</EMAILID>
+</STUDENT>
+<STUDENT>
+<USN>1GD10ME012</USN>
+<NAME>Ranjith Menon</NAME>
+<COLLEGE> College of Engineering</COLLEGE>
+<BRANCH>Mechanical Engineering</BRANCH>
+<YEAR>2017</YEAR>
+<EMAILID>ranjithsmenon@gmail.com</EMAILID>
+</STUDENT>
+<STUDENT>
+<USN>1GD12CS030</USN>
+<NAME>Divya Nair</NAME>
+<COLLEGE>MOP Vaishnav College for Women</COLLEGE>
+<BRANCH>Visual Communication</BRANCH>
+<YEAR>2015</YEAR>
+<EMAILID>divyanair@gmail.com</EMAILID>
+</STUDENT>
+</VTU>
